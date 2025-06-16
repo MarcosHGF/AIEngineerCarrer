@@ -1,12 +1,12 @@
 # 🎯 AI Engineer Career Roadmap: Building a Full-Stack AI Portfolio
 
-I’m developing a portfolio that **checks every box for AI Engineering job requirements**, covering the full stack of skills:
+I’m developing a portfolio and studying resources that meet all the core skill requirements for AI Engineering positions, spanning the entire AI technology stack:
 
 ✅ **Data Engineering**  
-✅ **Machine Learning**  
-✅ **Deep Learning**  
+✅ **Machine Learning**  *(Already have experience)*<br/>
+✅ **Deep Learning**  *(Already have experience)*<br/>
 ✅ **MLOps & Deployment**  
-✅ **LLMs & RAG**  
+✅ **LLMs & RAG**  *(Already have experience)*<br/>
 ✅ **Real-time Systems**  
 ✅ **End-to-End AI Pipelines**
 
@@ -34,12 +34,12 @@ I’m developing a portfolio that **checks every box for AI Engineering job requ
 📊 **"Building a Scalable Data Pipeline for Streaming and Batch Processing"**
 
 **Skills Developed:**  
-✅ Python  
+✅ Python  *(Already have experience)*<br/>
 ✅ ETL Design  
 ✅ Apache Airflow / Luigi / Prefect  
 ✅ Apache Kafka / RabbitMQ (Streaming Optional)  
-✅ SQL / NoSQL  
-✅ Data Cleaning and Transformation  
+✅ SQL / NoSQL  *(Already have experience)*<br/>
+✅ Data Cleaning and Transformation  *(Already have experience)*<br/>
 
 **Project Summary:**  
 Design and implement a pipeline that extracts data from a public API (or streaming service like Kafka), processes it, and loads it into a Data Warehouse (PostgreSQL, MongoDB, or BigQuery).
@@ -58,7 +58,7 @@ _"Designed and deployed a scalable ETL pipeline, automating data collection, tra
 📈 **"Customer Churn Prediction API with FastAPI and Docker"**
 
 **Skills Developed:**  
-✅ Scikit-learn / XGBoost  
+✅ Scikit-learn / XGBoost  *(Already have experience)*<br/>
 ✅ FastAPI / Flask  
 ✅ Docker  
 ✅ Model Evaluation & Metrics  
@@ -82,7 +82,7 @@ _"Built and deployed a machine learning API for churn prediction using FastAPI a
 - 🖼️ **"Image Classification API with TensorFlow and Flask"** *(Computer Vision)*  
 
 **Skills Developed:**  
-✅ TensorFlow / PyTorch  
+✅ TensorFlow / PyTorch  *(Already have experience)*<br/>
 ✅ Hugging Face Transformers  
 ✅ Transfer Learning  
 ✅ ONNX / TensorFlow Lite (Optimization)  
@@ -105,10 +105,10 @@ _"Developed and deployed a deep learning API with real-time inference using Hugg
 📖 **"Enterprise Document Search and QA System with LangChain, FAISS, and Ollama"**
 
 **Skills Developed:**  
-✅ LangChain  
-✅ FAISS Vector Database  
+✅ LangChain  *(Already have experience)*<br/>
+✅ FAISS Vector Database  *(Already have experience)*<br/>
 ✅ RAG Architecture  
-✅ LLM Prompt Engineering  
+✅ LLM Prompt Engineering  *(Already have experience)*<br/>
 ✅ Chatbot Development  
 ✅ LLM APIs (Ollama, OpenAI, Hugging Face)  
 
@@ -129,7 +129,7 @@ _"Built an end-to-end RAG system with LangChain and FAISS, enabling LLM-powered 
 ⚙️ **"CI/CD Pipeline for ML Deployment on AWS / GCP"**
 
 **Skills Developed:**  
-✅ GitHub Actions / GitLab CI  
+✅ GitHub Actions / GitLab CI  *(Already have experience)*<br/>
 ✅ Docker / Kubernetes  
 ✅ AWS (S3, Lambda) / GCP (Vertex AI)  
 ✅ Model Monitoring (Prometheus / Grafana - Optional)  
