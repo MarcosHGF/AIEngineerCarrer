@@ -10,8 +10,9 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 | Area                         | Tools & Technologies                                                                                       |
 |------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Data Engineering**          | Python, SQL, Apache Airflow, Apache Spark / PySpark, Apache Kafka, ETL Pipelines, Data Lakes (S3, MinIO), NoSQL (MongoDB), Data Warehousing (BigQuery, Redshift, Synapse), PostgreSQL |
+| **Data Science**              | Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn), Statsmodels, Jupyter Notebooks, Data Manipulation, EDA, Statistical Modeling, Hypothesis Testing, A/B Testing, Feature Engineering |
 | **Data Visualization / BI**   | Power BI, Tableau                                                                                        |
+| **Data Engineering**          | Python, SQL, Apache Airflow, Apache Spark / PySpark, Apache Kafka, ETL Pipelines, Data Lakes (S3, MinIO), NoSQL (MongoDB), Data Warehousing (BigQuery, Redshift, Synapse), PostgreSQL |
 | **Machine Learning**          | Scikit-learn, XGBoost, LightGBM                                                                          |
 | **Deep Learning**             | TensorFlow, PyTorch, Hugging Face Transformers                                                           |
 | **Deployment / Serving**      | FastAPI, Flask, Docker, ONNX, TensorFlow Lite, TorchScript                                               |
@@ -26,18 +27,20 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### 📡 1. Data Engineering - Batch & Streaming ETL Pipeline  
+### 📊 1. Data Science - Exploratory Data Analysis & Statistical Modeling  
 
 **Project:**  
-🚀 **"Scalable Data Pipeline with Spark, Kafka, Airflow, and Data Warehousing"**
+🔎 **"Data Science Case Study: From EDA to Statistical Modeling and A/B Testing"**
 
 **Skills Covered:**  
-✅ Apache Spark / PySpark  
-✅ Apache Kafka (Streaming)  
-✅ Airflow (Orchestration)  
-✅ SQL & NoSQL  
-✅ Data Warehousing (BigQuery or Redshift)  
-✅ Data Lakes (S3 / MinIO)
+✅ Exploratory Data Analysis (EDA) with Pandas and Matplotlib/Seaborn  
+✅ Data Manipulation with NumPy and Pandas  
+✅ Hypothesis Testing (t-test, chi-square, ANOVA)  
+✅ Statistical Modeling with Statsmodels (Linear Regression, Logistic Regression)  
+✅ A/B Testing Design and Analysis  
+✅ Feature Engineering Techniques  
+✅ Jupyter Notebooks for Analysis Reporting  
+✅ Optional: Deploy insights via Streamlit Dashboard  
 
 ---
 
@@ -54,7 +57,22 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### 🧠 3. Machine Learning Model Development (Classic ML)  
+### 📡 3. Data Engineering - Batch & Streaming ETL Pipeline  
+
+**Project:**  
+🚀 **"Scalable Data Pipeline with Spark, Kafka, Airflow, and Data Warehousing"**
+
+**Skills Covered:**  
+✅ Apache Spark / PySpark  
+✅ Apache Kafka (Streaming)  
+✅ Airflow (Orchestration)  
+✅ SQL & NoSQL  
+✅ Data Warehousing (BigQuery or Redshift)  
+✅ Data Lakes (S3 / MinIO)
+
+---
+
+### 🧠 4. Machine Learning Model Development (Classic ML)  
 
 **Project:**  
 🧮 **"Customer Churn Prediction using Scikit-Learn and XGBoost"**
@@ -69,7 +87,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### 🔬 4. Deep Learning - Computer Vision with TensorFlow  
+### 🔬 5. Deep Learning - Computer Vision with TensorFlow  
 
 **Project:**  
 🖼️ **"Image Classification API with TensorFlow and TensorFlow Lite"**
@@ -83,7 +101,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### 🧪 5. Deep Learning - NLP with PyTorch and Hugging Face  
+### 🧪 6. Deep Learning - NLP with PyTorch and Hugging Face  
 
 **Project:**  
 🗣️ **"Text Classification with Hugging Face Transformers and PyTorch"**
@@ -97,7 +115,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### 🚀 6. ML API Deployment with Docker  
+### 🚀 7. ML API Deployment with Docker  
 
 **Project:**  
 ⚙️ **"Containerized ML Model Deployment with FastAPI and Docker"**
@@ -111,7 +129,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### 🔎 7. RAG & LLMs - Retrieval-Augmented Generation System  
+### 🔎 8. RAG & LLMs - Retrieval-Augmented Generation System  
 
 **Project:**  
 📖 **"Enterprise Document QA System with LangChain, LangGraph, FAISS, and Ollama"**
@@ -126,7 +144,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### 📈 8. Real-Time AI System with Kafka and Spark Streaming  
+### 📈 9. Real-Time AI System with Kafka and Spark Streaming  
 
 **Project:**  
 📡 **"Real-Time Anomaly Detection Pipeline with Kafka and Spark Streaming"**
@@ -140,7 +158,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 
 ---
 
-### ⚙️ 9. MLOps - CI/CD for ML on AWS / GCP / Kubernetes  
+### ⚙️ 10. MLOps - CI/CD for ML on AWS / GCP / Kubernetes  
 
 **Project:**  
 🛠️ **"End-to-End MLOps Pipeline with CI/CD, Kubernetes, and Cloud Deployment"**
@@ -161,6 +179,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 ✅ Full Data Engineering Stack  
 ✅ Business Intelligence & Data Visualization  
 ✅ Machine Learning & Deep Learning with Scikit-learn, TensorFlow, PyTorch  
+✅ Data Science: EDA, Statistical Modeling, A/B Testing  
 ✅ Model Deployment & Serving with FastAPI, Flask, Docker  
 ✅ Real-Time Streaming AI Systems with Kafka & Spark  
 ✅ MLOps: CI/CD, Kubernetes, Cloud Deployment, Monitoring  
@@ -174,4 +193,3 @@ This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Mach
 I’ll update this README with links to individual project folders as I complete each one.
 
 ---
-
