@@ -2,7 +2,11 @@
 
 Welcome to my **AI Engineer Skill Portfolio**, where I’m building targeted, hands-on projects to cover every critical skill area requested in AI Engineering roles across Europe and North America.
 
+<<<<<<< HEAD
 This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Visualization** **Data Engineering**, **Machine Learning**, **Deep Learning**, **MLOps**, **Real-Time AI**, to **LLMs & RAG systems**.
+=======
+This roadmap ensures **end-to-end expertise**, from **Data Engineering**, **Machine Learning**, **Deep Learning**, **MLOps**, **Real-Time AI**, to **LLMs & RAG systems**.
+>>>>>>> 4f21a1ca6895daaf48ab2128304bbc21da003061
 
 ---
 
