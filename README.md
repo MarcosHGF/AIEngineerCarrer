@@ -185,6 +185,14 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ✅ Cloud Architecture (AWS / GCP / Azure)   
 
 ---
+## 📌 Inspirations
+
+https://roadmap.sh/ai-data-scientist  
+https://roadmap.sh/ai-engineer  
+https://roadmap.sh/prompt-engineering  
+https://roadmap.sh/ai-agents  
+
+---
 
 ## 📌 Follow this repository for step-by-step project releases!  
 
