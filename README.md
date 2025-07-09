@@ -28,7 +28,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 📊 1. Data Science - Exploratory Data Analysis & Statistical Modeling  
 
 **Project:**  
-🔎 **"Data Science Case Study: From EDA to Statistical Modeling and A/B Testing"**
+🔎 **"---"**
 
 **Skills Covered:**  
 ✅ Exploratory Data Analysis (EDA) with Pandas and Matplotlib/Seaborn  
@@ -45,7 +45,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 📊 2. Business Intelligence & Data Visualization  
 
 **Project:**  
-📈 **"Real-Time KPI Dashboard with Power BI and Tableau"**
+📈 **"---"**
 
 **Skills Covered:**  
 ✅ Power BI  
@@ -58,7 +58,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 📡 3. Data Engineering - Batch & Streaming ETL Pipeline  
 
 **Project:**  
-🚀 **"Scalable Data Pipeline with Spark, Kafka, Airflow, and Data Warehousing"**
+🚀 **"---"**
 
 **Skills Covered:**  
 ✅ Apache Spark / PySpark  
@@ -73,7 +73,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 🧠 4. Machine Learning Model Development (Classic ML)  
 
 **Project:**  
-🧮 **"Customer Churn Prediction using Scikit-Learn and XGBoost"**
+🧮 **"---"**
 
 **Skills Covered:**  
 ✅ Feature Engineering  
@@ -88,7 +88,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 🔬 5. Deep Learning - Computer Vision with TensorFlow  
 
 **Project:**  
-🖼️ **"Image Classification API with TensorFlow and TensorFlow Lite"**
+🖼️ **"---"**
 
 **Skills Covered:**  
 ✅ CNN Architectures  
@@ -102,7 +102,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 🧪 6. Deep Learning - NLP with PyTorch and Hugging Face  
 
 **Project:**  
-🗣️ **"Text Classification with Hugging Face Transformers and PyTorch"**
+🗣️ **"---"**
 
 **Skills Covered:**  
 ✅ Transformers (BERT, RoBERTa)  
@@ -116,7 +116,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 🚀 7. ML API Deployment with Docker  
 
 **Project:**  
-⚙️ **"Containerized ML Model Deployment with FastAPI and Docker"**
+⚙️ **"---"**
 
 **Skills Covered:**  
 ✅ FastAPI API Development  
@@ -130,7 +130,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 🔎 8. RAG & LLMs - Retrieval-Augmented Generation System  
 
 **Project:**  
-📖 **"Enterprise Document QA System with LangChain, LangGraph, FAISS, and Ollama"**
+📖 **"---"**
 
 **Skills Covered:**  
 ✅ LangChain  
@@ -145,7 +145,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 📈 9. Real-Time AI System with Kafka and Spark Streaming  
 
 **Project:**  
-📡 **"Real-Time Anomaly Detection Pipeline with Kafka and Spark Streaming"**
+📡 **"---"**
 
 **Skills Covered:**  
 ✅ Apache Kafka Topic Streaming  
@@ -159,7 +159,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### ⚙️ 10. MLOps - CI/CD for ML on AWS / GCP / Kubernetes  
 
 **Project:**  
-🛠️ **"End-to-End MLOps Pipeline with CI/CD, Kubernetes, and Cloud Deployment"**
+🛠️ **"---"**
 
 **Skills Covered:**  
 ✅ GitHub Actions (CI/CD Pipelines)  
