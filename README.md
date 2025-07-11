@@ -28,7 +28,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 ### 📊 1. Data Science - Exploratory Data Analysis & Statistical Modeling  
 
 **Project:**  
-🔎 **"---"**
+🔎 **"1 - [Netflix Customer Churn](DataScience/Projects/Netflix_Churn_Analysis.ipynb)"**
 
 **Skills Covered:**  
 ✅ Exploratory Data Analysis (EDA) with Pandas and Matplotlib/Seaborn  
