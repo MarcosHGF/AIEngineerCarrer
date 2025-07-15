@@ -40,7 +40,7 @@ Data Science is the foundation for any AI engineer, involving the extraction of 
     *   "Python for Data Analysis" by Wes McKinney.
     *   "Practical Statistics for Data Scientists" by Peter Bruce and Andrew Bruce.
 *   **Online Courses:**
-    *   DataCamp, Coursera (especially courses from Duke University and University of Michigan on Statistics and Python for Data Science).
+    *   DataCamp, Coursera, Youtube.
 *   **GitHub Repositories:**
     *   `pandas-dev/pandas`
     *   `numpy/numpy`

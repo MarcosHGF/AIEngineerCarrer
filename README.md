@@ -10,7 +10,7 @@ This roadmap ensures **end-to-end expertise**, from **Data Science**, **Data Vis
 |------------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Data Science**              | Python (NumPy, Pandas, SciPy, Matplotlib, Seaborn), Statsmodels, Jupyter Notebooks, Data Manipulation, EDA, Statistical Modeling, Hypothesis Testing, A/B Testing, Feature Engineering |
 | **Data Visualization / BI**   | Power BI, Tableau                                                                                        |
-| **Data Engineering**          | Python, SQL, Apache Airflow, Apache Spark / PySpark, Apache Kafka, ETL Pipelines, Data Lakes (S3, MinIO), NoSQL (MongoDB), Data Warehousing (BigQuery, Redshift, Synapse), PostgreSQL |
+| **Data Engineering**          | Python, SQL, Apache Airflow, Apache Spark / PySpark, Apache Kafka, ETL Pipelines, Data Lakes, NoSQL, Data Warehousing, PostgreSQL |
 | **Machine Learning**          | Scikit-learn, XGBoost, LightGBM                                                                          |
 | **Deep Learning**             | TensorFlow, PyTorch, Hugging Face Transformers                                                           |
 | **Deployment / Serving**      | FastAPI, Flask, Docker, ONNX, TensorFlow Lite, TorchScript                                               |
