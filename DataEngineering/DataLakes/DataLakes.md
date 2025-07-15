@@ -2,7 +2,7 @@
 
 A **Data Lake** is a centralized repository that allows you to store **structured, semi-structured, and unstructured data at scale**. Unlike data warehouses, which store data in predefined schemas, data lakes use a **schema-on-read** approach. This means you can store raw data without knowing exactly how you’ll use it later.
 
-### ✅ Key Characteristics:
+### Key Characteristics:
 - **Scalability**: Petabyte-scale data storage.
 - **Cost-effective**: Usually built on cheap object storage (e.g., Amazon S3, Azure Data Lake Storage).
 - **Flexible**: Can store all types of data: CSV, JSON, images, videos, Parquet, logs, IoT streams.
