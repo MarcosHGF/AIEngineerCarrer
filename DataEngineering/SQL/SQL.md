@@ -8,7 +8,7 @@ It is supported by most RDBMS such as:
 - Microsoft SQL Server
 - Oracle DB
 
-## 🔧 SQL Overview
+## SQL Overview
 
 | Category              | Examples                                |
 |-----------------------|------------------------------------------|
@@ -262,11 +262,11 @@ WITH recent_orders AS (
 SELECT * FROM recent_orders WHERE total > 500;
 ```
 
-## 14. 🌐 Ecosystem & Extensibility
+## 14. Ecosystem & Extensibility
 
 SQL is at the heart of the modern data ecosystem. It integrates with virtually every data technology and scales from embedded databases to petabyte-scale data warehouses.
 
-### 🔌 SQL Ecosystem Overview
+### SQL Ecosystem Overview
 
 | Technology Type           | Examples                                                   |
 |---------------------------|-------------------------------------------------------------|
@@ -278,7 +278,7 @@ SQL is at the heart of the modern data ecosystem. It integrates with virtually e
 | **Data Science**          | Pandas, Jupyter (via `%sql`), Apache Superset               |
 | **Languages with SQL Libs** | Python, R, Java, C#, Node.js, Rust, Go                    |
 
-### ⚙️ Extensibility Features
+### Extensibility Features
 
 - **User-Defined Functions (UDFs)**: Custom logic written in SQL or other languages.
 - **Stored Procedures**: Encapsulate logic inside the database.
@@ -286,63 +286,63 @@ SQL is at the heart of the modern data ecosystem. It integrates with virtually e
 - **Foreign Data Wrappers**: Access external data sources like CSV, APIs, or NoSQL.
 
 
-## 15. 📈 Common Use Cases
+## 15. Common Use Cases
 
 SQL is a foundational technology in nearly every data-driven workflow:
 
-### 🧮 Business Intelligence (BI)
+### Business Intelligence (BI)
 - Dashboards
 - KPI monitoring
 - Ad-hoc reporting
 
-### 🛠️ Application Development
+### Application Development
 - User authentication and profile storage
 - Transactional apps (e.g., e-commerce orders)
 - CRUD operations through APIs
 
-### 📊 Data Analytics
+### Data Analytics
 - Cohort analysis
 - Funnel analysis
 - Churn prediction
 
-### 🧪 Data Science
+### Data Science
 - Data exploration and cleaning
 - Feature extraction
 - Connecting to ML pipelines
 
-### 🔄 ETL/ELT Pipelines
+### ETL/ELT Pipelines
 - Extracting from operational DBs
 - Transforming via SQL logic
 - Loading into warehouses (e.g., dbt + BigQuery)
 
-### 🔐 Auditing & Logging
+### Auditing & Logging
 - Querying logs
 - Creating access control reports
 - Building audit trails
 
 
-## 16. 🆘 Getting Help & Resources
+## 16.Getting Help & Resources
 
-### 📚 Learning Platforms
+### Learning Platforms
 - [SQLBolt](https://sqlbolt.com)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial)
 - [W3Schools SQL](https://www.w3schools.com/sql/)
 - [LeetCode SQL Problems](https://leetcode.com/problemset/database/)
 - [Kaggle SQL Courses](https://www.kaggle.com/learn/advanced-sql)
 
-### 📖 Documentation
+### Documentation
 - [PostgreSQL Docs](https://www.postgresql.org/docs/)
 - [MySQL Docs](https://dev.mysql.com/doc/)
 - [SQLite Docs](https://www.sqlite.org/docs.html)
 - [SQL Server Docs](https://learn.microsoft.com/en-us/sql/)
 
-### 💬 Communities
+### Communities
 - [Stack Overflow — SQL](https://stackoverflow.com/questions/tagged/sql)
 - [Reddit /r/SQL](https://reddit.com/r/sql)
 - [DBA StackExchange](https://dba.stackexchange.com/)
 - [SQLServerCentral](https://www.sqlservercentral.com/)
 
-### 👩‍💻 Tools
+### Tools
 - **DBeaver** — Universal GUI client  
 - **TablePlus**, **DataGrip**, **pgAdmin**  
 - **JupyterLab SQL Magic** (`%sql` in notebooks)  

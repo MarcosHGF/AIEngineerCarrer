@@ -8,11 +8,11 @@ A Data Warehouse (DW) is a centralized repository designed to store, manage, and
 
 | Benefit                    | Description                                            |
 | -------------------------- | ------------------------------------------------------ |
-| ✅ Historical analysis      | Stores years of business data.                         |
-| ✅ Data consistency         | Centralizes inconsistent source data.                  |
-| ✅ High-performance queries | Optimized for OLAP workloads.                          |
-| ✅ Business Intelligence    | Enables dashboards and visualizations.                 |
-| ✅ Scalability              | Handles petabytes of data (e.g., BigQuery, Snowflake). |
+| Historical analysis      | Stores years of business data.                         |
+| Data consistency         | Centralizes inconsistent source data.                  |
+| High-performance queries | Optimized for OLAP workloads.                          |
+| Business Intelligence    | Enables dashboards and visualizations.                 |
+| Scalability              | Handles petabytes of data (e.g., BigQuery, Snowflake). |
 
 ## Core Components
 
